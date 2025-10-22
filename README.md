@@ -15,8 +15,14 @@ A Flutter widget demonstrating hero animations between two screens with interact
 - **child**: The widget to animate between screens (typically an image)
 - **flightShuttleBuilder**: Optional custom transition behavior
 
-## Final UI
+## Final UI Demonstration
 
-![Hero Animation Demo](https://via.placeholder.com/300x600/378CE7/FFFFFF?text=Hero+Animation+Demo+Screen)
+## Demo
 
-*The demo shows a main screen with a large image that smoothly transitions to a smaller version on a blue background when tapped, then animates back when the back button is pressed.*
+### Main Screen
+![Main Screen](screenshots/main_screen.png)
+
+### After Transition
+![Detail Screen](screenshots/detail_screen.png)
+
+*Tap the image to see the hero animation transition to the detail screen, then tap the smaller image or use the back button to return.*
